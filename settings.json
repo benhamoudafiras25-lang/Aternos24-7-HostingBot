@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "FIRASMC67.aternos.me",
+    "port": 58588,
     "version": "",
     "try-creative": false
   },
